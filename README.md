@@ -13,3 +13,6 @@ pip install -r requirements.txt
 
 # create conda.yaml(bash)
  conda env export > conda.yaml
+
+ # create conda.yaml
+ conda env export > conda.yaml
